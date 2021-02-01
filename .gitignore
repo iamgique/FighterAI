@@ -1,0 +1,11 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+.idea
+.log/point/
+.log/replay/
+*.iws
+*.iml
+*.ipr
+
+.vscode/
