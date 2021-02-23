@@ -30,6 +30,7 @@ Add library
 
 ## How to build jar file
 `File > Project structure > Artifacts`
+`Build > Build Artifacts > Build`
 
 ![Alt text](resource/images/artifacts_screenshot.png?raw=true "Artifacts Screenshot")
 
