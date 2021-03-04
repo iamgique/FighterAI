@@ -42,6 +42,10 @@ Add library
 
 ![Alt text](resource/images/giqueai_artifacts_screenshot.png?raw=true "Artifacts Screenshot")
 
+When you build success
+
+![Alt text](resource/images/out.png?raw=true "JAR Screenshot")
+
 ## How to do the AI
 Command 
 
