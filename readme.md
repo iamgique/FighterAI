@@ -29,11 +29,18 @@ Add library
 ```
 
 ## How to build jar file
-`File > Project structure > Artifacts`
+1. Rename your directory from FighterAI to {yourname}AI
+2. `Rename your class from FighterAI to {yourname}AI`
+3. `Rename file your class from src/FighterAI to src/{yourname}AI`
+4. `File > Project structure > Artifacts`
+5. `Plus (+) > jar > Empty`
+6. `Input {yourname}AI`
+7. `Plus (+) > Module Output`
+8. `Build > Build Artifacts > Build`
 
-`Build > Build Artifacts > Build`
+![Alt text](resource/images/artifacts_jar_empty.png?raw=true "Artifacts Screenshot")
 
-![Alt text](resource/images/artifacts_screenshot.png?raw=true "Artifacts Screenshot")
+![Alt text](resource/images/giqueai_artifacts_screenshot.png?raw=true "Artifacts Screenshot")
 
 ## How to do the AI
 Command 
